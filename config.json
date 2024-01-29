@@ -1,0 +1,4 @@
+{
+    "bots": ["bots/algorithm.py", "bots/algorithm.py"],
+    "map": "maps/meow.awap24m"
+}
